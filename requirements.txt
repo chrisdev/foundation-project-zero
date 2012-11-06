@@ -13,4 +13,4 @@ django-staticfiles==1.1.2
 django_compressor==1.0.1
 pinax-utils==1.0b1.dev3
 
-pinax-theme-foundation==0.2a2
+pinax-theme-foundation==0.2.1
